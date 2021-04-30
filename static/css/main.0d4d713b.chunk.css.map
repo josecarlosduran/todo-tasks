@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/styles/App.scss"],"names":[],"mappings":"AACA,KACE,eAAA,CAEF,MACE,kBAAA,CACA,UAAA,CACA,aAAA,CAGF,YACE,kBAAA,CACA,WAAA","file":"main.0d4d713b.chunk.css","sourcesContent":["\nbody {\n  background: #ffffff;\n}\n#root {\n  background: #9ac7a8;\n  width: 75vw;\n  margin: 0 auto;\n}\n\n.header-bar {\n  background: #6db683;\n  color: beige;\n}"]}
