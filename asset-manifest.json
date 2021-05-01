@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/todo-tasks/static/css/main.f097ff1d.chunk.css",
+    "main.css": "/todo-tasks/static/css/main.bee9a8b4.chunk.css",
     "main.js": "/todo-tasks/static/js/main.3765ac31.chunk.js",
     "main.js.map": "/todo-tasks/static/js/main.3765ac31.chunk.js.map",
     "runtime-main.js": "/todo-tasks/static/js/runtime-main.dd11acc4.js",
@@ -8,14 +8,14 @@
     "static/js/2.6eac97c2.chunk.js": "/todo-tasks/static/js/2.6eac97c2.chunk.js",
     "static/js/2.6eac97c2.chunk.js.map": "/todo-tasks/static/js/2.6eac97c2.chunk.js.map",
     "index.html": "/todo-tasks/index.html",
-    "static/css/main.f097ff1d.chunk.css.map": "/todo-tasks/static/css/main.f097ff1d.chunk.css.map",
+    "static/css/main.bee9a8b4.chunk.css.map": "/todo-tasks/static/css/main.bee9a8b4.chunk.css.map",
     "static/js/2.6eac97c2.chunk.js.LICENSE.txt": "/todo-tasks/static/js/2.6eac97c2.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/todo-tasks/static/media/roboto-regular-webfont.f249a77b.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.dd11acc4.js",
     "static/js/2.6eac97c2.chunk.js",
-    "static/css/main.f097ff1d.chunk.css",
+    "static/css/main.bee9a8b4.chunk.css",
     "static/js/main.3765ac31.chunk.js"
   ]
 }
